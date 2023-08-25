@@ -1,3 +1,5 @@
 # learn-demo
 learn about git.
-Auther - Sujan Magar
+<br>
+<i>
+Auther - Sujan Magar </i>
